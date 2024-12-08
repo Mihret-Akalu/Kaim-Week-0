@@ -1,4 +1,4 @@
-        ## Solar Farm Data Analysis
+### Solar Farm Data Analysis
 
 ## About the Project
 This repository is focused on analyzing solar farm data to explore patterns, insights, and build predictive models to optimize solar energy production.
